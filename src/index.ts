@@ -1,1 +1,3 @@
-console.log("ok");
+import { MockMongoose } from './libs/mock-mongoose';
+
+export { MockMongoose };
